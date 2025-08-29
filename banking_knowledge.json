@@ -1,0 +1,34 @@
+{
+    "account_types": {
+        "savings": "A savings account is a basic type of bank account that allows you to deposit money, keep it safe, and withdraw funds, all while earning interest. Features include: minimum balance requirements, interest rates, online banking access, and ATM facilities.",
+        "checking": "A checking account is a deposit account that allows you to easily access your money for daily transactions. Features include: unlimited transactions, check writing privileges, debit card access, and online bill payments.",
+        "fixed_deposit": "A fixed deposit is an investment instrument offered by banks which provides investors a higher rate of interest than a regular savings account. Features include: fixed interest rates, flexible tenures, and premature withdrawal options.",
+        "current": "A current account is primarily for business transactions. Features include: no interest on deposits, unlimited transactions, overdraft facility, and business banking services.",
+        "salary": "A salary account is a type of savings account where your salary gets credited. Features include: zero balance maintenance, free ATM transactions, and special offers for salary account holders."
+    },
+    "loan_types": {
+        "personal": "A personal loan is an unsecured loan that can be used for any purpose. Features include: fixed interest rates, flexible repayment tenures, and quick disbursement. Eligibility depends on credit score and income.",
+        "home": "A home loan is a secured loan taken to purchase a property. Features include: long repayment tenure, tax benefits, and flexible EMI options. The property serves as collateral.",
+        "car": "A car loan is a secured loan taken to purchase a vehicle. Features include: competitive interest rates, quick processing, and insurance coverage. The vehicle serves as collateral.",
+        "education": "An education loan helps finance higher education. Features include: moratorium period, tax benefits, and no collateral requirement for smaller amounts.",
+        "business": "A business loan helps finance business needs. Features include: flexible repayment options, quick processing, and no collateral requirement for smaller amounts."
+    },
+    "cards": {
+        "credit": "A credit card allows you to borrow money up to a certain limit. Features include: reward points, cashback offers, interest-free period, and EMI conversion options.",
+        "debit": "A debit card allows you to spend money by drawing on funds you have deposited. Features include: ATM withdrawals, online shopping, and contactless payments.",
+        "prepaid": "A prepaid card is loaded with money in advance. Features include: controlled spending, online shopping, and no credit check requirement.",
+        "business": "A business credit card is designed for business expenses. Features include: expense tracking, employee cards, and business rewards."
+    },
+    "services": {
+        "online_banking": "Online banking allows you to access your accounts and perform transactions through the internet. Features include: fund transfers, bill payments, and account management.",
+        "mobile_banking": "Mobile banking provides banking services through a mobile app. Features include: quick transfers, mobile recharges, and QR code payments.",
+        "atm": "ATMs provide 24/7 access to banking services. Features include: cash withdrawals, balance inquiries, and fund transfers.",
+        "cheque": "Cheques are a secure way to make payments. Features include: post-dated cheques, demand drafts, and multi-city cheques."
+    },
+    "terms": {
+        "interest_rate": "Interest rate is the percentage charged on loans or paid on deposits. Types include: fixed rate, floating rate, and reducing balance rate.",
+        "emi": "EMI (Equated Monthly Installment) is the fixed payment amount made by a borrower to a lender. It includes both principal and interest components.",
+        "credit_score": "A credit score is a numerical representation of your creditworthiness. It affects loan eligibility and interest rates.",
+        "kyc": "KYC (Know Your Customer) is the process of verifying customer identity. Required documents include: ID proof, address proof, and photograph."
+    }
+} 
